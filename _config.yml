@@ -6,9 +6,9 @@ color:
   saturation: 0.18632609746418893
   rhythmicContrast: 0.5189019464887679
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: MexicoSurfSchool

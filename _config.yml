@@ -1,0 +1,14 @@
+layout_spectrum: 0.16406852332875133
+typography_spectrum: 0.15388288837857544
+color:
+  brandStrength: 0.31454890919849277
+  lightness: 0.28287480282597244
+  saturation: 0.18632609746418893
+  rhythmicContrast: 0.5189019464887679
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: MexicoSurfSchool
